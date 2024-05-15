@@ -1,0 +1,111 @@
+# depslib dependency file v1.0
+1714023471 source:e:\c++_cw2\cw_task6\main.cpp
+	"environment.h"
+	"garbageLocation.h"
+	"optimizedRoute.h"
+	"djikstraRoute.h"
+	"greedyRoute.h"
+	"aStarRoute.h"
+	"menuPrint.h"
+	<stdlib.h>
+	<iostream>
+	<limits>
+	<queue>
+	<algorithm>
+
+1713873308 e:\c++_cw2\cw_task6\garbagelocation.h
+	<vector>
+	<string>
+
+1714037650 source:e:\c++_cw2\cw_task6\garbagelocation.cpp
+	"garbageLocation.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cmath>
+	<limits>
+	<vector>
+	<ctime>
+	<random>
+	<numeric>
+
+1713867853 source:e:\c++_cw2\cw_task6\greedyroute.cpp
+	<iostream>
+	<vector>
+	<limits>
+	<queue>
+	<algorithm>
+	"garbageLocation.h"
+	"greedyRoute.h"
+	"routeCost.h"
+
+1713865125 e:\c++_cw2\cw_task6\greedyroute.h
+
+1714016220 e:\c++_cw2\cw_task6\routecost.h
+	<iostream>
+	<iomanip>
+	<fstream>
+
+1713984111 source:e:\c++_cw2\cw_task6\basicroute.cpp
+	"basicRoute.h"
+	"RouteCost.h"
+	<iostream>
+	<limits>
+
+1713984490 e:\c++_cw2\cw_task6\basicroute.h
+	"garbageLocation.h"
+	"routeCost.h"
+	<vector>
+
+1714037545 source:e:\c++_cw2\cw_task6\optimizedroute.cpp
+	"optimizedRoute.h"
+	"routeCost.h"
+	<unordered_map>
+	<set>
+	<vector>
+	<string>
+
+1714016702 e:\c++_cw2\cw_task6\optimizedroute.h
+	<vector>
+	<string>
+	<iostream>
+	<cmath>
+	<limits>
+	<algorithm>
+	"routeCost.h"
+	"garbageLocation.h"
+
+1714382862 source:e:\c++_cw2\cw_task6\djikstraroute.cpp
+	"garbageLocation.h"
+	"routeCost.h"
+	"djikstraRoute.h"
+	<iostream>
+	<vector>
+	<queue>
+	<limits>
+	<functional>
+	<algorithm>
+	<set>
+
+1714022290 e:\c++_cw2\cw_task6\djikstraroute.h
+
+1713872746 e:\c++_cw2\cw_task6\astarroute.h
+	<vector>
+	<queue>
+	<cmath>
+	"garbageLocation.h"
+
+1714016869 source:e:\c++_cw2\cw_task6\astarroute.cpp
+	"AStarRoute.h"
+	"routeCost.h"
+	<algorithm>
+	<iostream>
+	<cfloat>
+	<unordered_set>
+
+1713873394 e:\c++_cw2\cw_task6\environment.h
+	<random>
+	<iostream>
+
+1713886181 e:\c++_cw2\cw_task6\menuprint.h
+
